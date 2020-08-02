@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Python
-Update time:  2020-08-01 18:34:47
+Update time:  2020-08-03 02:32:31
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **150   /   1399** problems
+I have solved **155   /   1403** problems
 while there are **222** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -1413,5 +1413,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1652|[bulb-switcher-iv](https://leetcode.com/problems/bulb-switcher-iv)|||Medium|
 |1653|[number-of-good-leaf-nodes-pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs)|||Medium|
 |1655|[move-sub-tree-of-n-ary-tree](https://leetcode.com/problems/move-sub-tree-of-n-ary-tree)|:lock:||Hard|
+|1656|[count-good-triplets](https://leetcode.com/problems/count-good-triplets)|||Easy|
+|1657|[find-the-winner-of-an-array-game](https://leetcode.com/problems/find-the-winner-of-an-array-game)|||Medium|
+|1658|[minimum-swaps-to-arrange-a-binary-grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid)|||Medium|
+|1659|[get-the-maximum-score](https://leetcode.com/problems/get-the-maximum-score)|||Hard|
 |1665|[diameter-of-n-ary-tree](https://leetcode.com/problems/diameter-of-n-ary-tree)|:lock:||Medium|
 |1672|[find-the-index-of-the-large-integer](https://leetcode.com/problems/find-the-index-of-the-large-integer)|:lock:||Medium|
